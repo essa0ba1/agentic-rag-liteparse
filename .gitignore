@@ -40,7 +40,7 @@ ENV/
 .env
 
 # Data files
-data/
+
 *.jsonl
 *.csv
 eval_dataset.jsonl

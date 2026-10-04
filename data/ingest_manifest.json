@@ -1,0 +1,50 @@
+{
+  "/home/aissabakhil/files/data/docs/Attestation_LCBFT_AWBE.pdf": {
+    "mtime": 1790459110.8895044,
+    "size": 260596,
+    "hash": "5dad0191b52bfac6486404c42fb0cfd2c21e49b034c2aca7251f007bd2def182",
+    "chunk_count": 46
+  },
+  "/home/aissabakhil/files/data/uploads/mpdf.pdf": {
+    "mtime": 1790715572.956454,
+    "size": 151190,
+    "hash": "4e7db3cda13593acbd4f143583a642945fc56bc363be3ea585a472e0a7933299",
+    "chunk_count": 4
+  },
+  "/home/aissabakhil/files/data/uploads/\u0642\u0631\u0627\u0631 \u0641\u062a\u062d \u0627\u0644\u0645\u0628\u0627\u0631\u0627\u0629.pdf": {
+    "mtime": 1790716032.826337,
+    "size": 595912,
+    "hash": "45a5b4259214f3e7e98b2ce650b207405daa259f3161b6e6d47a168a90c565ae",
+    "chunk_count": 6
+  },
+  "/home/aissabakhil/files/data/uploads/Resume-3.pdf": {
+    "mtime": 1790716151.9409964,
+    "size": 188916,
+    "hash": "dde958ca20b48fb6644cbfdb2ee10f92bed894b0bf785978a94713e5ac27dfba",
+    "chunk_count": 14
+  },
+  "/home/aissabakhil/files/data/uploads/Resume 2.pdf": {
+    "mtime": 1790716925.5582654,
+    "size": 190382,
+    "hash": "7ef3d01165f23c0ecc28bfc535f09020ee21f751c76e3531ecf50c8bb2f0f147",
+    "chunk_count": 15
+  },
+  "/home/aissabakhil/files/data/uploads/Resume 2_1790716964.pdf": {
+    "mtime": 1790716925.5582654,
+    "size": 190382,
+    "hash": "7ef3d01165f23c0ecc28bfc535f09020ee21f751c76e3531ecf50c8bb2f0f147",
+    "chunk_count": 15
+  },
+  "/home/aissabakhil/files/data/uploads/MNN_Quantization_Guide.pdf": {
+    "mtime": 1791113951.0753028,
+    "size": 536396,
+    "hash": "d4244e4040165e5345608f2e58a4c312fbabd53ddca50032a40e0bfec3554f95",
+    "chunk_count": 90
+  },
+  "/home/aissabakhil/files/data/uploads/MNN_Learning_Guide.pdf": {
+    "mtime": 1791115664.5673888,
+    "size": 444195,
+    "hash": "ac799add8cdcb801e35394299568538fd69c17bb1a9003b1a001ce42969093d9",
+    "chunk_count": 78
+  }
+}
