@@ -1,0 +1,64 @@
+{
+  "chunk_type": "recursive",
+  "tokenizer": "character",
+  "chunk_size": 512,
+  "min_characters_per_chunk": 100,
+  "rules": {
+    "levels": [
+      {
+        "delimiters": [
+          "\n\n",
+          "\r\n",
+          "\n",
+          "\r"
+        ],
+        "whitespace": false,
+        "include_delim": "prev"
+      },
+      {
+        "delimiters": [
+          ". ",
+          "! ",
+          "? "
+        ],
+        "whitespace": false,
+        "include_delim": "prev"
+      },
+      {
+        "delimiters": [
+          "{",
+          "}",
+          "\"",
+          "[",
+          "]",
+          "<",
+          ">",
+          "(",
+          ")",
+          ":",
+          ";",
+          ",",
+          "—",
+          "|",
+          "~",
+          "-",
+          "...",
+          "`",
+          "'"
+        ],
+        "whitespace": false,
+        "include_delim": "prev"
+      },
+      {
+        "delimiters": null,
+        "whitespace": true,
+        "include_delim": "prev"
+      },
+      {
+        "delimiters": null,
+        "whitespace": false,
+        "include_delim": "prev"
+      }
+    ]
+  }
+}

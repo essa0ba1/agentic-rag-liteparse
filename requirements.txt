@@ -1,0 +1,8 @@
+langchain-core
+langchain-openai
+transformers
+chonkie[qdrant]
+onnxruntime
+liteparse
+fastembed
+gradio>=5.0.0
